@@ -1,6 +1,6 @@
 ## Sources
 
-- (wiz-sec-research)[https://github.com/wiz-sec-public/wiz-research-iocs/blob/main/reports/shai-hulud-2-packages.csv?plain=1]
+- [wiz-sec-research](https://github.com/wiz-sec-public/wiz-research-iocs/blob/main/reports/shai-hulud-2-packages.csv?plain=1)
 
 ## How?
 
